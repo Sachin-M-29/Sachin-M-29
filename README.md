@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sachin 👋
+# Hi, I'm Sachin M 👋
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="120" />
 
